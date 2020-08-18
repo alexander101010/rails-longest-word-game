@@ -1,0 +1,21 @@
+// Place all the styles related to the games controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+
+ol li {
+  display: inline;
+}
+
+li {
+  background-color: royalblue;
+  padding: 10px;
+  color: white;
+  box-shadow: 0 0 5px rgba(10, 10, 10, 0.4);
+  margin: 10px;
+}
+
+.play-again {
+  text-decoration: none;
+  color: #93b5e1;
+
+}
